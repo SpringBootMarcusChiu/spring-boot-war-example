@@ -9,3 +9,6 @@
 - start or restart tomcat server
 - open browser: http://localhost:8080/custom-spring-boot-servlet-initializer-war
 - if you see `hello world` then success!
+
+### Article
+[confluence article](http://confluence.marcuschiu.com/pages/viewpage.action?pageId=21168310)
